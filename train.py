@@ -1,8 +1,3 @@
-# PROGRAMMER:  Giannis Variozidis
-# DATE CREATED: 13/02/2023                      
-# REVISED DATE: 
-# PURPOSE: Train VGG16 model for flower classification images.
-
 # Imports here
 
 import argparse
