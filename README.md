@@ -13,7 +13,7 @@ The main objective of this project is to make a model that recognize different s
 The dataset is provided [here](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html) and contains various species of flowers.
 
 # II. Software Requirements:
-This project requires **Python 3.7** and the following Python libraries installed:
+This project requires **Python 3.8** and the following Python libraries installed:
 - [Python 3.8](https://www.python.org/downloads/) 
 - [NumPy](http://www.numpy.org/), [Pandas](https://pandas.pydata.org/) , [matplotlib](http://matplotlib.org/)
 - [scikit-learn](http://scikit-learn.org/stable/)
