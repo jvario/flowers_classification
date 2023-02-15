@@ -31,7 +31,7 @@ This repository [azureai-2021-team1](https://github.com/codehub-learn/azureai-20
 ### III-1. Python Files:
 
 	- train.py: A file contains the training process of the model
-  - predict.py: A file contains the prediction process of the model
+  	- predict.py: A file contains the prediction process of the model
 	
 ### III-2. Notebooks:
 
