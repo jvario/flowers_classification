@@ -28,10 +28,11 @@ This project requires **Python 3.8** and the following Python libraries installe
 # III. Project Architecture:
 This repository [azureai-2021-team1](https://github.com/codehub-learn/azureai-2021-team1) includes 1 main directory and 4 Notebooks:
 
-### III-1. Python Files:
+### III-1. Files:
 
 	- train.py: A file contains the training process of the model
   	- predict.py: A file contains the prediction process of the model
+	- cat_to_name.json: A file contains the names of the flowers
 	
 ### III-2. Notebooks:
 
