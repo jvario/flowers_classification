@@ -1,8 +1,3 @@
-# PROGRAMMER:  Giannis Variozidis
-# DATE CREATED: 14/02/2023                      
-# REVISED DATE: 
-# PURPOSE: Predict for flower classification images.
-
 # Imports here
 import argparse
 import torch
